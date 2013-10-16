@@ -120,16 +120,13 @@ input[type="text"], input[type="password"] {
 	margin-left: 125px;
 }
 .loginbtn #login {
-	background-image: url("../images/loginbtn.png");
-	background-repeat: repeat;
 	color: #FFFFFF;
 	padding: 7px;
-	text-transform: uppercase;
 	background-color: transparent;
 	border: none;
 }
 .home .ui-btn-up-c, .home .ui-btn-down-c, .home .ui-btn-hover-c, .home .ui-btn-active {
-	background: url("../images/loginbtn.png") !important;
+	
 	color: #FFF !important;
 	border-radius: 0px;
 	border: none;
